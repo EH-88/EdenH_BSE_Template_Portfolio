@@ -15,10 +15,9 @@ UNDER CONSTRUCTION
 # Second Milestone
 UNDER CONSTRUCTION
 
-[![Third Milestone](Video Here){:target="_blank" rel="noopener"}
-# First Milestone
-  
+[![Second Milestone](Video Here){:target="_blank" rel="noopener"}
 
+# First Milestone
 For my First Milestone, I have set up two IR sensors to detect a black line. Each sensor can now differentiate between black and white, and based off of the outputs of two sensors side-by-side, I have created code that can determine whether the robot car should turn left, turn right, or continue moving straight.
 My next step will be assembling the chassis of my robot car, and using the outputs of the IR sensors to control the robot car and allow it to follow a black line.
 
