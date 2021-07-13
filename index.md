@@ -21,5 +21,4 @@ UNDER CONSTRUCTION
 For my First Milestone, I have set up two IR sensors to detect a black line. Each sensor can now differentiate between black and white, and based off of the outputs of two sensors side-by-side, I have created code that can determine whether the robot car should turn left, turn right, or continue moving straight.
 My next step will be assembling the chassis of my robot car, and using the outputs of the IR sensors to control the robot car and allow it to follow a black line.
 
-[![Eden H Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1626187887/video_to_markdown/images/youtube--15n1ZdJsuV4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/15n1ZdJsuV4 "Eden H Milestone 1")
-[![First Milestone](https://youtu.be/15n1ZdJsuV4){:target="_blank" rel="noopener"}
+[![Eden H Milestone 1](https://res.cloudinary.com/marcomontalbano/image/upload/v1626187887/video_to_markdown/images/youtube--15n1ZdJsuV4-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/15n1ZdJsuV4 "Eden H Milestone 1"){:target="_blank" rel="noopener"}
