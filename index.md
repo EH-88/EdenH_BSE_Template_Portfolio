@@ -12,10 +12,14 @@ UNDER CONSTRUCTION
 
 [![Final Milestone](Video Here){:target="_blank" rel="noopener"}
 
+
 # Second Milestone
 UNDER CONSTRUCTION
 
 [![Eden H Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1626646693/video_to_markdown/images/youtube--kdTgERcL5lk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/kdTgERcL5lk "Eden H Milestone 2"){:target="_blank" rel="noopener"}
+
+[Code For The Line-Following Robot Car](Code/followaline.ino)
+
 
 # First Milestone
 For my First Milestone, I have set up two IR sensors to detect a black line. Each sensor can now differentiate between black and white, and based off of the outputs of two sensors side-by-side, I have created code that can determine whether the robot car should turn left, turn right, or continue moving straight.
