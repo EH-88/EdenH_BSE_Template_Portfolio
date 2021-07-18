@@ -53,13 +53,13 @@ void loop() {
     analogWrite(enableM2, 0);
   } else if(button_hasBeenPressed == true){
     if(digitalRead(rightSensor) == white && digitalRead(leftSensor) == black){
-      /*Turn Right (set motor 1 to high speed and motor 2 to low speed).*/
+      /*Turn Right (set motor 1 to high speed and motor 2 to reverse speed).*/
       digitalWrite(input1M2, LOW);
       digitalWrite(input2M2, HIGH);
       analogWrite(enableM1, 255);
       analogWrite(enableM2, 255);
     } else if(digitalRead(leftSensor) == white && digitalRead(rightSensor) == black){
-      /*Turn Left (set motor 2 to high speed and motor 2 to low speed).*/
+      /*Turn Left (set motor 2 to high speed and motor 2 to reverse speed).*/
       digitalWrite(input1M1, LOW);
       digitalWrite(input2M1, HIGH);
       analogWrite(enableM1, 255);
