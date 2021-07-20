@@ -17,7 +17,7 @@ UNDER CONSTRUCTION
 For my Second Milestone, my robot car can now follow a black line. The robot car has a button to turn it on and off, and it uses the information of two IR sensors to determine which direction to turn in order to follow a black line. Depending on whether each IR sensor detects black or white, I coded an L298N motor driver to change the speed and direction of the spinning wheels.
 My next step will be working with solar panels to modify my line-following robot car and make it powered by the sun.
 
-[![Eden H Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1626646693/video_to_markdown/images/youtube--kdTgERcL5lk-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/kdTgERcL5lk "Eden H Milestone 2"){:target="_blank" rel="noopener"}
+[![Eden H Milestone 2](Images/IMG-9139.jpg)](https://youtu.be/kdTgERcL5lk "Eden H Milestone 2"){:target="_blank" rel="noopener"}
 
 [Code For The Line-Following Robot Car](Code/followaline.ino)
 
