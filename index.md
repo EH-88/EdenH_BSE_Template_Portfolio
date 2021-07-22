@@ -7,15 +7,16 @@ This will serve as a brief description of your project. Limit this to three sent
 
 ![Headstone Image](Insert Image)
   
+# Extra Milestone
+UNDER CONSTRUCTION/n
+Note: This project was initially intended to be solar powered, and I am leaving the title the same and a space for this extra milestone in the hopes that I can accomplish that goal.
+
+
 # Final Milestone
-UNDER CONSTRUCTION
+For my Final Milestone, I modified my line-following robot to also be able to follow a light. In order to complete this light-tracking modification, I used four photoresistors that I attatched to each end of the robot car. Each photoresistor can sense the brightness of an area, and their information allowed me to code the robot car to follow a light.
+If I have time, my next step will be working with solar panels and make this project solar powered. Unfortunately, the materials for my solar power modification didn't arrive in time for this milestone, but I nonetheless managed to make a light-tracking modification that I am really proud of.
 
 [![Final Milestone](Video Here){:target="_blank" rel="noopener"}
-
-
-# Third Milestone
-For my Third Milestone, I modified my line-following robot to also be able to follow a light. In order to complete this light-tracking modification, I used four photoresistors that I attatched to each end of the robot car. Each photoresistor can sense the brightness of an area, and their information allowed me to code the robot car to follow a light.
-If I have time, my next step will be working with solar panels and make this project solar powered. Unfortunately, the materials for my solar power modification didn't arrive in time for this milestone, but I nonetheless managed to make a light-tracking modification that I am really proud of.
 
 [Code For The Line-Following and Light-Tracking Robot Car](Code/followlightsandlines.ino)
 
