@@ -17,6 +17,7 @@ UNDER CONSTRUCTION
 For my Third Milestone, I modified my line-following robot to also be able to follow a light. In order to complete this light-tracking modification, I used four photoresistors that I attatched to each end of the robot car. Each photoresistor can sense the brightness of an area, and their information allowed me to code the robot car to follow a light.
 If I have time, my next step will be working with solar panels and make this project solar powered. Unfortunately, the materials for my solar power modification didn't arrive in time for this milestone, but I nonetheless managed to make a light-tracking modification that I am really proud of.
 
+[Code For The Line-Following and Light-Tracking Robot Car](Code/followlightsandlines.ino)
 
 # Second Milestone
 For my Second Milestone, my robot car can now follow a black line. The robot car has a button to turn it on and off, and it uses the information of two IR sensors to determine which direction to turn in order to follow a black line. Depending on whether each IR sensor detects black or white, I coded an L298N motor driver to change the speed and direction of the spinning wheels.
