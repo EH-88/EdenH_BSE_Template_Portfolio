@@ -8,7 +8,8 @@ This will serve as a brief description of your project. Limit this to three sent
 ![Headstone Image](Insert Image)
   
 # Extra Milestone
-UNDER CONSTRUCTION\n
+UNDER CONSTRUCTION
+
 Note: This project was initially intended to be solar powered, and I am leaving the title the same and a space for this extra milestone in the hopes that I can accomplish that goal.
 
 
