@@ -42,5 +42,5 @@ My next step will be assembling the chassis of my robot car, and using the outpu
 
 # Main Materials Used
 <HTML>
-  <img src = "Images/L298N_Motor_Driver_Image" width = 250 align = "left" style = "padding-right:10px">
+  <img src = "Images/L298N_Motor_Driver_Image.jpg" width = 250 align = "left" style = "padding-right:10px">
 </HTML>
