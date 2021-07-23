@@ -38,3 +38,9 @@ For my First Milestone, I have set up two IR sensors to detect a black line. Eac
 My next step will be assembling the chassis of my robot car, and using the outputs of the IR sensors to control the robot car and allow it to follow a black line.
 
 [![Eden H Milestone 1](Images/IMG-9142.jpg)](https://youtu.be/15n1ZdJsuV4 "Eden H Milestone 1"){:target="_blank" rel="noopener"}
+
+
+# Main Materials Used
+<HTML>
+  <img src = "Images/L298N_Motor_Driver_Image" width = 250 align = "left" style = "padding-right:10px">
+</HTML>
