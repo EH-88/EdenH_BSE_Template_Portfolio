@@ -42,7 +42,7 @@ My next step will be assembling the chassis of my robot car, and using the outpu
 
 # Main Materials Used
 <HTML>
-  <img src = "Images/IR_Sensor_Image.png" width = 250 align = "left" style = "padding-right:10px">
-  <img src = "Images/L298N_Motor_Driver_Image.jpg" width = 250 align = "left" style = "padding-right:10px">
-  <img src = "Images/Photoresistor_Image.jpg" width = 250 align = "left" style = "padding-right:10px">
+  <img src = "Images/IR_Sensor_Image.png" width = 250 align = "left" style = "padding-right:20px">
+  <img src = "Images/L298N_Motor_Driver_Image.jpg" width = 150 align = "left" style = "padding-right:20px">
+  <img src = "Images/Photoresistor_Image.jpg" width = 50 align = "left" style = "padding-right:0px">
 </HTML>
