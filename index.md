@@ -18,7 +18,7 @@ For my Final Milestone, I modified my line-following robot to also be able to fo
 
 If I have time, my next step will be working with solar panels and make this project solar powered. Unfortunately, the materials for my solar power modification didn't arrive in time for this milestone, but I nonetheless managed to make a light-tracking modification that I am really proud of.
 
-[![Final Milestone](Video Here){:target="_blank" rel="noopener"}
+[![Eden H Milestone 3](https://res.cloudinary.com/marcomontalbano/image/upload/v1627249496/video_to_markdown/images/youtube--hNOKQYl62Aw-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/hNOKQYl62Aw "Eden H Milestone 3"){:target="_blank" rel="noopener"}
 
 [Code For The Line-Following and Light-Tracking Robot Car](Code/followlightsandlines.ino)
 
