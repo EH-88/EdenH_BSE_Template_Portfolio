@@ -5,7 +5,7 @@ This is a line-following, light-tracking robot car. Using a button to switch bet
 |:--:|:--:|:--:|:--:|
 | Eden H | SAR High School | Electrical Engineering, Environmental Engineering, Computer Science | Rising Junior
 
-![Headstone Image](Images/IMG-9297.jpg)
+![Headstone Image](Images/IMG-9297 (1).jpg)
   
 # Extra Milestone
 UNDER CONSTRUCTION
