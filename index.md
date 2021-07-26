@@ -48,8 +48,8 @@ My next step will be assembling the chassis of my robot car, and using the outpu
 </HTML>
 These are three of the main parts that I used for my robot (left to right): IR sensors, an L298N motor driver, and photoresistors.
 
-IR Sensors:
+IR Sensors: In my project, I have used 2 IR sensors. Each IR sensor can detect the difference between black and white.
 
-L298N Motor Driver:
+L298N Motor Driver: In my project, I have used 1 L298N motor driver. The L298N motor driver allows me to control the speeds and directions of the robot car's wheels using an Arduino Uno.
 
-Photoresistors:
+Photoresistors: In my project, I have used 4 photoresistors. Each photoresistor can sense the brightness in an area.
