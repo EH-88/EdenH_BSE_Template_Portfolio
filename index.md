@@ -47,3 +47,9 @@ My next step will be assembling the chassis of my robot car, and using the outpu
   <img src = "Images/Photoresistor_Image.jpg" width = 130 align = "left" style = "padding-right:0px">
 </HTML>
 These are three of the main parts that I used for my robot (left to right): IR sensors, an L298N motor driver, and photoresistors.
+
+IR Sensors:
+
+L298N Motor Driver:
+
+Photoresistors:
