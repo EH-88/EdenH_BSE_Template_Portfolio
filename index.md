@@ -1,5 +1,5 @@
 ﻿# Solar Powered Line-Following Light-Tracking Robot
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+This is a line-following, light-tracking robot car. Using a button to switch between modes, the robot car can either follow a black line or a light.
 
 | **Engineer** | **School** | **Areas of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
