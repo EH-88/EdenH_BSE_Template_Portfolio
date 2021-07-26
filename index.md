@@ -5,7 +5,7 @@ This will serve as a brief description of your project. Limit this to three sent
 |:--:|:--:|:--:|:--:|
 | Eden H | SAR High School | Electrical Engineering, Environmental Engineering, Computer Science | Rising Junior
 
-![Headstone Image](Insert Image)
+![Headstone Image](Images/IMG-9297.jpg)
   
 # Extra Milestone
 UNDER CONSTRUCTION
