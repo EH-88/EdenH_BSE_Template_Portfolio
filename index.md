@@ -46,4 +46,4 @@ My next step will be assembling the chassis of my robot car, and using the outpu
   <img src = "Images/L298N_Motor_Driver_Image.jpg" width = 220 align = "left" style = "padding-right:20px">
   <img src = "Images/Photoresistor_Image.jpg" width = 130 align = "left" style = "padding-right:0px">
 </HTML>
-Test text.
+These are three of the main parts that I used for my robot (left to right): IR sensors, an L298N motor driver, and photoresistors.
